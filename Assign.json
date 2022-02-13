@@ -1,0 +1,62 @@
+{
+  "name": "MARYLOUI YESHA B. LACSON",
+  "email": "yesha.maryloui@gmail.com     (+63) 900 000 0000",
+  "basicinfo":"Basic Information",
+  "age":"Age: 18",
+  "gender":"Gender: Female",
+  "birth":"Date of Birth: December 3, 2003",
+  "address": "Address: 000 Street St., Baliuag, Bulacan, Philippines, 3006",
+
+  "profiles": "Profiles",
+  "network": "GitHub",
+  "username": "Username: Maryloui Yesha",
+  "url": "https://github.com/MarylouiYesha",
+
+  "obj":"Objectives",
+  "obj1":"To further improve my knowledge and sills that enhance my performabnce in my field",
+
+  "skil":"Skills",
+  "skil1":"> Creative Writing",
+  "skil2":"> Good at communicating",
+  "skil3":"> Can work under pressure",
+  "skil4":"> Can work in flexible environments",
+  "skil5":"> Beginner level Python Programming",
+  "skil6":"> Proficcient in Microsoft Word, Excel, and PowerPoint",
+
+  "education":"Education",
+  "col":"Polytechnic University of the Philippines                                             2021-present",
+  "col1":"University",
+  "col2":"  Bachelor of Science in Computer Engineering",
+  "col3":"  1016 Anonas, Sta. Mesa, Manila, Philippines",
+  "col4": "  https://www.pup.edu.ph/",
+  
+  "shs": "Baliuag University                                                                                  2019-2021",
+  "shs1": "Senior Highschool",
+  "shs2": "  Science, Technology, Engineering, and Mathematics (STEM)",
+  "shs3": "  Gil Carlos St., Baliuag, Bulacan",
+  "shs4": "  http://baliuagu.edu.ph/",
+
+  "hs": "Marian College of Baliuag                                                                     2018-2019",
+  "hs1": "Junior Highschool",
+  "hs2": "   908 Gil Carlos St., Baliuag, Bulacan",
+  "hs3": "   https://mcb.edu.ph/",
+   
+  "andd": "Awards and Recognitions",
+  "andd1": "Academic Exellence Award",
+  "andd2": "With Honors",
+  "andd3": "Award given by Baliuag University, 2021",
+  "andd4": "With High Honors",
+  "andd5": "Award given by Marian College of Baliuag, 2019 ",
+  "andd6": "Best Research Paper Junior Highschool Department",
+
+  "addinfo": "Additional Information",
+  "addinfo1":"Nationality: Filipino",
+  "addinfo2":"Languages: Filipino (Native Language)",
+  "addinfo3":"                    English (Fluent)",
+
+  "oth":"Others",
+  "oth1":"Voiceover (Beginner)",
+  "oth2":"Read and write in Baybayin"
+}
+
+
